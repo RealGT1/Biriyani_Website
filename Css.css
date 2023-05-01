@@ -104,6 +104,7 @@ img{
 /* reuseable css*/
 .section{
   padding: 7rem 2rem;
+  overflow-x: hidden;
 }
 
 .container{
