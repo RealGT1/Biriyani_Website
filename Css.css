@@ -985,7 +985,9 @@ text-align: center;
 
 @media screen and (max-width: 600px) {
 
-  
+  .homeTitle{
+    font-size: 27px;
+  }
 
   .container{
     padding-left: .9rem;
