@@ -1,4 +1,4 @@
-        // Swiper js 
+        // Swiper Js
         var swiper = new Swiper(".mySwiper", {
             slidesPerView: 1,
             spaceBetween: 5,
