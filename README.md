@@ -8,3 +8,4 @@ Features..
 Explore a variety of biryani recipes from different cuisines.
 Beautiful images showcasing the mouthwatering biryanis.
 User-friendly interface with responsive design for different devices.
+Enjoy your biryani and give us the feedback.
